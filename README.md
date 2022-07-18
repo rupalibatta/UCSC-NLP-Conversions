@@ -1,4 +1,4 @@
-#UCSC SIP 2020
+# UCSC SIP 2020 
 This repository contains code for the project CSE-08: Question Answering Data Collection and Analysis" conducted for SIP 2020 at UC Santa Cruz, undertaken under the mentorship of Geetanjali Rakshit.
 
 The primary contributors are:
