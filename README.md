@@ -1,6 +1,7 @@
-# SIP2020
+#UCSC SIP 2020
 This repository contains code for the project CSE-08: Question Answering Data Collection and Analysis" conducted for SIP 2020 at UC Santa Cruz, undertaken under the mentorship of Geetanjali Rakshit.
-The primary contributors (alphabetically) are:
+
+The primary contributors are:
 Rupali Batta, Daniel Fields, Jasmine Tostado
 
 Input: 
@@ -10,7 +11,3 @@ Output:
 Consists of a dictionary with the sentence id, sentence, the AMR, and a list of all the question answer pairs.  
 
 Dependencies: nltk, csv, tensorflow, re, json
-
-List of known bugs:
-- The structure of some AMR trees is incorrect
-- 
